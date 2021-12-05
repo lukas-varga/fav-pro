@@ -1,0 +1,2 @@
+# fav-pro
+Programátorské strtegie
