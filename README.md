@@ -1,2 +1,2 @@
 # fav-pro
-Programátorské strtegie
+Programátorské strategie
